@@ -1,0 +1,26 @@
+<svg fill="none" viewBox="0 0 360 50" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+
+                #container {
+                    display: flex;
+                    justify-content: center;
+                }
+                .red-title {
+                    background: #9F1E1E;
+                    padding: 5px 10px;
+                    border-radius: 5px;
+                    margin: 0 10px;
+                }
+            </style>
+            <div>
+                <p id="container">
+                    <span class="red-title">Group project </span>
+                    <span class="red-title"> Python </span>
+                    <span class="red-title"> OOP</span>
+                </p>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
